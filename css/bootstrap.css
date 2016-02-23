@@ -374,6 +374,8 @@ hr {
   border-top: 1px solid #eeeeee;
 }
 
+
+
 .sr-only {
   position: absolute;
   width: 1px;
@@ -5223,7 +5225,7 @@ a.list-group-item.active > .badge,
 
 .jumbotron {
   padding: 30px;
-  margin-bottom: 30px;
+  margin: 50px;
   font-size: 21px;
   font-weight: 200;
   line-height: 2.1428571435;
