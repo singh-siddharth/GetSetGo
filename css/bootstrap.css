@@ -6487,6 +6487,7 @@ button.close {
   display: inline-block;
   width: 10px;
   height: 10px;
+  top:100px;
   margin: 1px;
   text-indent: -999px;
   cursor: pointer;
